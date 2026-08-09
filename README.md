@@ -6,7 +6,7 @@ Previously a **Data Analyst Intern with the Data & AI Centre of Excellence at Ma
 
 [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:noorullahbaig31@gmail.com)
 
-## Selected Work
+## Projects
 
 ### [DengueWatch KL](https://github.com/noorullahbaig/Dengue-Breeding-Habitat-Mapping)
 
